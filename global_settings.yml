@@ -1,0 +1,4 @@
+object_type: global_settings
+overrides:
+    "aggregate.snowflake.table.names.uppercase": true
+    "query.drillthrough.max_rows": 1000
