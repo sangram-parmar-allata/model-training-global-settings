@@ -5,4 +5,5 @@ overrides:
     "xmla.auth.token.enabled": true
     "atscale.host": "engine"
     "query.factless.ignoreIncidentalFilter": false
+    "xmla.discover.properties.daxdialect": "tabular"
     
