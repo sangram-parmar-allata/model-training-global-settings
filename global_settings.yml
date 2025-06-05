@@ -3,7 +3,7 @@ overrides:
     "aggregate.snowflake.table.names.uppercase": true
     "query.drillthrough.max_rows": 1000
     "xmla.auth.token.enabled": true
-    "atscale.host": "engine"
+    "atscale.host": engine
     "query.factless.ignoreIncidentalFilter": false
-    "xmla.discover.properties.daxdialect": "tabular"
+    "xmla.discover.properties.daxdialect": tabular
     
