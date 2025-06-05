@@ -1,7 +1,5 @@
 object_type: global_settings
 overrides:
-    "aggregate.snowflake.table.names.uppercase": true
-    "query.drillthrough.max_rows": 1000
     "xmla.auth.token.enabled": true
     "atscale.host": engine
     "query.factless.ignoreIncidentalFilter": false
