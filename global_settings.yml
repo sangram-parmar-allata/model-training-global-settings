@@ -4,5 +4,5 @@ overrides:
     "query.drillthrough.max_rows": 1000
     "xmla.auth.token.enabled": true
     "atscale.host": "engine"
-    "QUERY.FACTLESS.IGNOREINCIDENTALFILTER": false
+    "query.factless.ignoreIncidentalFilter": false
     
