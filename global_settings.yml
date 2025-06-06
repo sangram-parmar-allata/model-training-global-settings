@@ -4,4 +4,5 @@ overrides:
     "query.factless.ignoreIncidentalFilter": false
     "xmla.discover.properties.daxdialect": tabular
     "soap.xpress.enabled": true
+    "atscale.host": engine
     
